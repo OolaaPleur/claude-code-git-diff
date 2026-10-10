@@ -1,0 +1,9 @@
+{
+  "name": "git-diff",
+  "version": "0.1.0",
+  "description": "A pane that shows the git diff of the repository being worked on",
+  "author": { "name": "OolaaPleur" },
+  "repository": "https://github.com/OolaaPleur/claude-code-git-diff",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

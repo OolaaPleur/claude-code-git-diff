@@ -1,0 +1,16 @@
+{
+  "name": "oolaapleur",
+  "owner": {
+    "name": "OolaaPleur"
+  },
+  "metadata": {
+    "description": "Claude Code mods by OolaaPleur"
+  },
+  "plugins": [
+    {
+      "name": "git-diff",
+      "source": "./",
+      "description": "A pane that shows the git diff of the repository being worked on"
+    }
+  ]
+}
